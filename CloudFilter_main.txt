@@ -1,7 +1,7 @@
 [Adblock Plus 3.6]
 ! Title: Cloud Filter
 ! Version: A01
-! Expires: 1 days
+! Expires: 1 hours
 ! Description: A filter powered by the cloud
 ! Note: Automatically updated
 ! Homepage: http://chonky.link/cloudfilterlanding
