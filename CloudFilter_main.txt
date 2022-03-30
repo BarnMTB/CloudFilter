@@ -9,3 +9,4 @@
 accounts.google.com##div
 photos.google.com##div
 timeline.google.com##div
+mail.google.com##div
