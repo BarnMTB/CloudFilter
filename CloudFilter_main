@@ -1,0 +1,11 @@
+[Adblock Plus 3.6]
+! Title: Cloud Filter
+! Version: A01
+! Expires: 1 days
+! Description: A filter powered by the cloud
+! Note: Automatically updated
+! Homepage: https://g.co/
+
+accounts.google.com##div
+photos.google.com##div
+timeline.google.com##div
