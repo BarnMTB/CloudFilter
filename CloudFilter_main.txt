@@ -4,7 +4,7 @@
 ! Expires: 1 days
 ! Description: A filter powered by the cloud
 ! Note: Automatically updated
-! Homepage: https://www.google.com/
+! Homepage: http://chonky.link/cloudfilterlanding
 
 accounts.google.com##div
 photos.google.com##div
