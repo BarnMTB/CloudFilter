@@ -1,12 +1,12 @@
 [Adblock Plus 3.6]
 ! Title: Cloud Filter
-! Version: A01
+! Version: A02
 ! Expires: 1 hours
 ! Description: A filter powered by the cloud
 ! Note: Automatically updated
 ! Homepage: http://chonky.link/cloudfilterlanding
 
-accounts.google.com##div
+accounts.google.com##div:has-text(/สร้างบัญชี Google/)
 photos.google.com##div
 timeline.google.com##div
 mail.google.com##div
