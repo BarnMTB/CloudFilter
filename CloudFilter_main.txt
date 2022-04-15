@@ -13,3 +13,5 @@ mail.google.com##div
 myaccount.google.com##div
 myactivity.google.com##div
 www.google.com##.yIbDgf.Q3DXx > .Q3DXx
+outlook.live.com
+outlook.com
