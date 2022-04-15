@@ -15,3 +15,4 @@ myactivity.google.com##div
 www.google.com##.yIbDgf.Q3DXx > .Q3DXx
 outlook.live.com
 outlook.com
+www.google.com##.onegoogle
